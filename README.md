@@ -44,9 +44,9 @@ Review the console output and generated plots for analysis.
 
 ---
 ## 📈 Results ##
-**Deterministic environment:** High success rate (≈93.5%), efficient policy.
-**Slippery environment:** Lower success rate (≈50.8%), but improved action diversity and robustness.
-**Visualizations** show learning progress, policy maps, and Q-table values.
+- **Deterministic environment:** High success rate (≈93.5%), efficient policy.
+- **Slippery environment:** Lower success rate (≈50.8%), but improved action diversity and robustness.
+- **Visualizations** show learning progress, policy maps, and Q-table values.
 
 ---
 
